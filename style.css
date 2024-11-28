@@ -1,0 +1,34 @@
+.nav{
+    width: 1440px;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.main{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 150px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 200px;
+    
+
+}
+p{
+    color: white;
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+    text-align: center;
+}
+}
